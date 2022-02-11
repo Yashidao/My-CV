@@ -1,0 +1,33 @@
+.grid-contener{
+    display: grid;
+    gap: 10px;
+    grid-template: 'head head1'
+                    'top top'
+                    'left right'
+                    'left1 right'
+                    'left2 right';
+}
+.head{
+    grid-area: head;
+}
+.head1{
+    grid-area: head1;
+}
+.top{
+    grid-area: top;
+}
+.left{
+    grid-area: left;
+}
+.left1{
+    grid-area: left1;
+}
+.left2{
+    grid-area: left2;
+}
+.right{
+    grid-area: right;
+}
+body{
+    border: 2px solid black;
+}
