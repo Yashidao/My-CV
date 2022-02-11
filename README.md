@@ -4,4 +4,4 @@ Une version HTML de mon CV
 
 ## Lien
 
-Pas encore fonctionnel :)
+https://yashidao.github.io/My-CV/CV.html
